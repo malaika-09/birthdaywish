@@ -1,21 +1,38 @@
-# 🎉 Birthday Countdown Project (ESP32 + SH1106 OLED)
+# 🎉 ESP32 Birthday Countdown Project  
 
-## 📌 Overview
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=25&center=true&vCenter=true&width=500&lines=ESP32+Birthday+Project;Countdown+Animation;LED+Effects+%2B+Music;Happy+Birthday+System+🎉" />
+</p>
+
+<p align="center">
+  🎂 🎉 🎈 💡 🔊 🎶
+</p>
+
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue)
+![OLED](https://img.shields.io/badge/OLED-SH1106-green)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-orange)
+
+---
+
+## 📌 Overview  
+
 This is a fun embedded systems project built using ESP32.  
 It displays a countdown on an OLED screen, controls LEDs, and plays a "Happy Birthday" tune using a buzzer.
 
 ---
 
-## 🧰 Components Used
+## 🧰 Components Used  
+
 - ESP32 Dev Board  
 - OLED Display 1.3" SH1106 (I2C)  
 - Buzzer  
 - 5 LEDs  
-- Push Button (Built-in BOOT button)
+- Push Button (Built-in BOOT button)  
 
 ---
 
-## 🔌 Connections
+## 🔌 Connections  
+
 | Component | ESP32 Pin |
 |----------|----------|
 | OLED SDA | GPIO 21 |
@@ -26,40 +43,27 @@ It displays a countdown on an OLED screen, controls LEDs, and plays a "Happy Bir
 
 ---
 
-## 📚 Libraries Required
-- Adafruit GFX  
-- Adafruit SH110X  
+## ⚡ Features  
 
-Install using Arduino Library Manager.
-
----
-
-## ⚙️ Features
-- 🔘 Press BOOT button to start countdown  
-- ⏳ 10 to 0 countdown displayed on OLED  
-- 💡 LED chasing effect during countdown  
-- 🔊 Buzzer beeps when countdown ends  
-- 🎶 Plays "Happy Birthday" melody  
-- 🎇 LED disco effects  
-- 🖥️ Displays "HAPPY BIRTHDAY" message  
+✨ Press BOOT button to start  
+⏳ Countdown animation (10 → 0)  
+💡 LED chasing effect  
+🔊 Buzzer alert  
+🎶 Happy Birthday melody  
+🎇 Disco LED effects  
+🖥️ OLED message display  
 
 ---
 
-## ▶️ How to Run
-1. Upload the code to ESP32 using Arduino IDE  
-2. Connect all components properly  
-3. Press BOOT button  
-4. Enjoy the birthday animation 🎉  
+## 🎥 Project Demo  
+
+<p align="center">
+  <img src="YOUR_GIF_LINK_HERE" width="300"/>
+</p>
 
 ---
 
-## 📸 Output
-OLED shows countdown and birthday message with LED effects and sound.
+## ▶️ How to Run  
 
----
-
-## 👩‍💻 Author
-Malaika Tauqeer  
-BS Electrical Engineering (Robotics & Embedded Systems)
-
----
+```bash
+Upload code → Connect circuit → Press BOOT → Enjoy 🎉
