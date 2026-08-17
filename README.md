@@ -67,7 +67,7 @@ It displays a countdown on an OLED screen, controls LEDs, and plays a "Happy Bir
 
 ## 📷 Setup Photo
 
-<img src="images/setup_photo.png" alt="ESP32 Birthday Countdown Setup" width="600"/>
+<img src="setup_photo.png" alt="ESP32 Birthday Countdown Setup" width="600"/>
 
 *Live setup: ESP32 wired on breadboard with OLED showing "HAPPY BIRTHDAY!" and Arduino IDE running the sketch.*
 
