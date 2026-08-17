@@ -76,10 +76,12 @@ It displays a countdown on an OLED screen, controls LEDs, and plays a "Happy Bir
 
 ## 🎥 Project Demo
 
-> Video demo: upload your `.mp4` directly in the GitHub README editor (drag & drop) or as an Issue attachment — GitHub will generate a `user-images.githubusercontent.com` link. Paste that link below to replace this line.
-
 ```
-[https://github.com/user-attachments/assets/42feebff-bf5c-45b8-a967-ce042b007545]
+[
+
+https://github.com/user-attachments/assets/94a5a0bc-beec-444d-b917-1921c1edeb4c
+
+]
 ```
 
 ---
