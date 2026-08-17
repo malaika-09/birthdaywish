@@ -1,3 +1,4 @@
+
 # 🎉 ESP32 Birthday Countdown Project
 
 ![readme typing svg](https://readme-typing-svg.herokuapp.com?color=FF1493&size=25&center=true&vCenter=true&width=500&lines=ESP32+Birthday+Project;Countdown+Animation;LED+Effects+%2B+Music;Happy+Birthday+System+%F0%9F%8E%89)
@@ -78,7 +79,7 @@ It displays a countdown on an OLED screen, controls LEDs, and plays a "Happy Bir
 > Video demo: upload your `.mp4` directly in the GitHub README editor (drag & drop) or as an Issue attachment — GitHub will generate a `user-images.githubusercontent.com` link. Paste that link below to replace this line.
 
 ```
-[Demo video link here]
+[https://github.com/user-attachments/assets/42feebff-bf5c-45b8-a967-ce042b007545]
 ```
 
 ---
