@@ -80,8 +80,7 @@ It displays a countdown on an OLED screen, controls LEDs, and plays a "Happy Bir
 [
 
 
-
-https://github.com/user-attachments/assets/28fdf6b8-c142-4044-9d4b-fa552d46810a
+https://drive.google.com/file/d/1DXhiTerkF5fnGVoafzwHPHbhOtvpvfqn/view?usp=sharing
 
 
 
